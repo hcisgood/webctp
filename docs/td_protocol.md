@@ -330,7 +330,7 @@
 ```json
 {
   "MsgType": "ReqQryOptionInstrCommRate",
-  "OnRspQryOptionInstrTradeCost": {
+  "ReqQryOptionInstrCommRate": {
       "BrokerID": "9999",
       "InvestorID": "028742",
       "InstrumentID": "m2309-C-3000"
